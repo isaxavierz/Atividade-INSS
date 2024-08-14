@@ -1,0 +1,14 @@
+E:\Etec\Atividade INSS\bin\Debug\net8.0\Atividade INSS.exe
+E:\Etec\Atividade INSS\bin\Debug\net8.0\Atividade INSS.deps.json
+E:\Etec\Atividade INSS\bin\Debug\net8.0\Atividade INSS.runtimeconfig.json
+E:\Etec\Atividade INSS\bin\Debug\net8.0\Atividade INSS.dll
+E:\Etec\Atividade INSS\bin\Debug\net8.0\Atividade INSS.pdb
+E:\Etec\Atividade INSS\obj\Debug\net8.0\Atividade INSS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Etec\Atividade INSS\obj\Debug\net8.0\Atividade INSS.AssemblyInfoInputs.cache
+E:\Etec\Atividade INSS\obj\Debug\net8.0\Atividade INSS.AssemblyInfo.cs
+E:\Etec\Atividade INSS\obj\Debug\net8.0\Atividade INSS.csproj.CoreCompileInputs.cache
+E:\Etec\Atividade INSS\obj\Debug\net8.0\Atividade INSS.dll
+E:\Etec\Atividade INSS\obj\Debug\net8.0\refint\Atividade INSS.dll
+E:\Etec\Atividade INSS\obj\Debug\net8.0\Atividade INSS.pdb
+E:\Etec\Atividade INSS\obj\Debug\net8.0\Atividade INSS.genruntimeconfig.cache
+E:\Etec\Atividade INSS\obj\Debug\net8.0\ref\Atividade INSS.dll
